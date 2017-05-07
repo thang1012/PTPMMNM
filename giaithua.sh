@@ -1,4 +1,5 @@
-﻿echo “Chuong trinh tinh $1!” 
+﻿clear
+echo “Chuong trinh tinh $1!” 
 index=0 
 gt=1 
 while [ $index -lt $1 ] 
